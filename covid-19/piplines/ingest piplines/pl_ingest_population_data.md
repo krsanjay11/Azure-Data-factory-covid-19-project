@@ -39,7 +39,7 @@ Conditions -
    
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/ba18187b-b38b-4c39-b77c-8aef84312f48)
 
-### 3.2 - True activity
+### 3.2 - True condition
 ### if all the condition met then execute True flow
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/19b04639-c73c-45de-83d8-99689d4a1c63)
 
@@ -59,7 +59,7 @@ Conditions -
 
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/3e833225-d0b9-497f-aadc-f92e31da7f0c)
 
-### 3.3 - False Activity
+### 3.3 - False condition
 ### if condition not met, we can send email about the failure of pipeline
 #### Select web activity
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/b571528a-1b97-480c-b2cb-9eca0b10e39b)
