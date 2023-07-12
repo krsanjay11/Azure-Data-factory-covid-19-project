@@ -1,0 +1,1 @@
+# Azure blog storage replica
