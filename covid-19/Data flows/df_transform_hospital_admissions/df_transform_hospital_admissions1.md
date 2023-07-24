@@ -36,22 +36,7 @@
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/27c96319-fc9e-4f65-a663-910df25febeb)
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/307aef78-f08b-4933-86d0-e2be04a176d8)
 
-### 5. split data into daily and weekly
-### 5.1 split weekly
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/1cd21295-c7d7-4c0a-9937-ca1c0814a07d)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/38825558-5191-4d52-a16b-5a9b5712edad)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/27b0f047-db4e-46fd-b06f-a9aea0f61d40)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/b06c3969-7b33-4a70-8c5b-7d9299057cd9)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/e8ec9206-7fee-41c5-a73a-73166d26fb65)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/48815938-6831-4d0d-8c6c-22d95cc1034b)
-
-### 5.2 Join with date using aggregate
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/2e3d862a-1f69-4cc4-aaf3-513d30dca89d)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/3af38e4b-9010-48b8-91be-8957d685be6a)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/a1d5db7a-275d-4c0c-960d-d8fa771a66d5)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/49a0e0a6-cf3e-461c-b143-9ef2098e4125)
-![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/ffa5701c-70c9-4dea-95e3-ae5d8f5a15ae)
-## aggregate from
+## continue in df_transform_hospital_admissions2.md
 
 
 
