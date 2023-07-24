@@ -25,6 +25,8 @@
 ### 4. pivot data
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/25dc7eb7-66a1-4fa1-b1cd-76a2c32dc020)
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/6d7dc425-89cc-4c32-8c9e-cea6ddfa89b8)
+![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/1ab2d39f-97ce-4f22-911b-dcdab7c7814c)
+![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/0a67eeb4-64a1-4152-a3cf-906bf9e4500f)
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/7cd6cb55-0aaf-4361-9706-a644d7d48d3a)
 ![image](https://github.com/krsanjay11/Azure-Data-factory-covid-19-project/assets/21271522/2e719664-d2d6-4572-a204-2aa83b57349b)
 
